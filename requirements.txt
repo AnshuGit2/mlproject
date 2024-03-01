@@ -1,0 +1,5 @@
+## Requrements related to ML Project 
+pandas 
+numpy
+seaborn
+-e .
